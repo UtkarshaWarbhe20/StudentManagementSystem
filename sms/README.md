@@ -1,8 +1,8 @@
 # Student Management System (SMS)
 **PHP + MySQL | Admin & Student Portal**
 
-Developed by: Utkarsha Warbhe.
-College: Kavikulguru Institute of Technology and Science, Ramtek.
+1. Developed by: Utkarsha Warbhe.
+2. College: Kavikulguru Institute of Technology and Science, Ramtek.
 Year: 2024-25 (Mini-project)
 Subject: Academic project.
 
