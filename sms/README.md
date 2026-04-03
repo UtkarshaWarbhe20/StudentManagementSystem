@@ -1,6 +1,12 @@
 # Student Management System (SMS)
 **PHP + MySQL | Admin & Student Portal**
 
+Student Management System
+Developed by: Utkarsha Warbhe 
+College: Kavikulguru Institute of Technology and Science, Ramtek
+Year: 2024-25 (Mini-project)
+Subject: Academic project
+
 ## Quick Start (Mock Data — No Database Needed)
 
 1. Install [XAMPP](https://www.apachefriends.org/) or [WAMP](https://www.wampserver.com/)
